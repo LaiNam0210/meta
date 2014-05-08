@@ -3,7 +3,7 @@ Developer Guide
 I. Describe Data Type
 =====================
 
-###Lable
+###Label
 The Label store name what actualy use in app.
 
 ###Name
